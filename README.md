@@ -1,4 +1,4 @@
-# <span style="color: #9b59b6; font-size: 2em;">🌳 Árbol AVL en Java</span> 
+# 🌳 Árbol AVL en Java
 Descripción
 Este proyecto implementa un árbol AVL (un tipo de árbol binario de búsqueda autobalanceable) en Java. Permite insertar números enteros uno por uno y visualizar el árbol después de cada inserción, manteniendo siempre sus propiedades de balanceo.
 
