@@ -86,6 +86,7 @@ class AVLTree {
 El diseño orientado a objetos permite encapsular la complejidad del balanceo AVL, haciendo que la inserción y visualización sea un proceso transparente para el usuario.
 
 ## ENLACE DEL VÍDEO DE YOUTUBE.
+https://youtu.be/Z0wXNqRYoIQ 
 
 
 
