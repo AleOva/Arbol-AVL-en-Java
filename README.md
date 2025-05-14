@@ -50,11 +50,12 @@ Cuarto: si se ha terminado la secuencia pues se escribe salir y la implementaci�
 1. Requisitos: Java JDK 8+
 2. Compilación: javac Main.java
 3. Ejecución: java Main
-4. Uso:
+4. Ingresar nombre: se le pedirá al usuario ingresar su nombre para personalizar la interacción
+5. Uso:
      - Insertar números uno por uno
      - El programa muestra el árbol después de cada inserción
      - Escribir "salir" para finalizar
-5. Estructura Clave del código:
+6. Estructura Clave del código:
      // Estructura básica de un nodo AVL
 class Node {
     int valor;
